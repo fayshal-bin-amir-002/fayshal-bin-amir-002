@@ -1,12 +1,3 @@
-echo "# apj-abdul-kalam-blog" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/fayshal-bin-amir/apj-abdul-kalam-blog.git
-git push -u origin main
-
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fayshal Bin Amir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
