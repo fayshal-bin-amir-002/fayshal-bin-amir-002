@@ -14,7 +14,7 @@
 - 📫 How to reach me **foyshalbinamir@gmail.com**
 
 
-## My Skill Set  
+
 <table align="center"><tr align="center"><td valign="top" width="50%">
 
 
