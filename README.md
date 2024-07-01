@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vaaski.dev">
-    <img src="https://github.com/vaaski/vaaski/raw/master/rain-logo.svg?sanitize=true">
+    <img src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
