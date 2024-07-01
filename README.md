@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vaaski.dev">
-    <img src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD">
+    <img src="https://i.postimg.cc/V6cZPVCh/giphy.webp">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
