@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.postimg.cc/V6cZPVCh/giphy.webp?sanitize=true">
+    <img src="https://i.postimg.cc/V6cZPVCh/giphy.webp">
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
