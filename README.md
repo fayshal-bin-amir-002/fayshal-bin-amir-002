@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://tenor.com/view/joy-gif-25414590">
+    <img src="https://i.postimg.cc/kGFTc3P0/2.png">
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
