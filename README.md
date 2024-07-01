@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fayshal-bin-amir-002&show_icons=true&locale=en" alt="fayshal-bin-amir-002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayshal-bin-amir-002&" alt="fayshal-bin-amir-002" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayshal-bin-amir-002&" alt="fayshal-bin-amir-002" /></p>
