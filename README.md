@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://vaaski.dev">
-    <img src="https://i.postimg.cc/V6cZPVCh/giphy.webp">
-  </a>
+    <img src="https://i.postimg.cc/V6cZPVCh/giphy.webp?sanitize=true">
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
