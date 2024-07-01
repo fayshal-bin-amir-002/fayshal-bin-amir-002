@@ -2,7 +2,7 @@
     <img src="https://i.postimg.cc/kGFTc3P0/2.png">
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayshal-bin-amir-002" alt="fayshal-bin-amir-002" /></a> </p>
 
