@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.postimg.cc/kGFTc3P0/2.png">
+    <img src="https://i.postimg.cc/v8z9Bq45/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png">
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
 <h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
