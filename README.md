@@ -3,10 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
-<p align="center">I'm currently studying BSc in Computer Science and Engineering at Begum Rokeya University, Rangpur.</p>
 
 # 💫 About Me:
-Full-stack web applications with modern technologies and clean architecture.<br>Web-based projects that use JavaScript, TypeScript, or full-stack solutions.<br>Exploring DevOps tools, improving system performance, and scaling apps efficiently.<br>Advanced backend design patterns, cloud deployment workflows, and automation practices.<br>Full-stack development, React, Next js, Node.js, API design, or anything related to modern web stacks.<br>I enjoy building both the UI and the logic behind it—equally passionate about frontend and backend!
+Full-stack web applications with modern technologies and clean architecture.<br>Web-based projects that use JavaScript, TypeScript, or full-stack solutions.<br>Exploring DevOps tools, improving system performance, and scaling apps efficiently.<br>Advanced backend design patterns, cloud deployment workflows, and automation practices.<br>Full-stack development, React, Next js, Node.js, API design, or anything related to modern web stacks.<br>I enjoy building both the UI and the logic behind it—equally passionate about frontend and backend!<br>I'm currently studying BSc in Computer Science and Engineering at Begum Rokeya University, Rangpur.
 
 
 ## 🌐 Socials:
