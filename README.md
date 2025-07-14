@@ -2,7 +2,7 @@
     <img src="https://i.postimg.cc/v8z9Bq45/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png">
 </div>
 <h1 align="center">Hi 👋, I'm Fayshal</h1>
-<h3 align="center">A passionate Front-end Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 <p align="center">I'm currently studying BSc in Computer Science and Engineering at Begum Rokeya University, Rangpur.</p>
 
 # 💫 About Me:
